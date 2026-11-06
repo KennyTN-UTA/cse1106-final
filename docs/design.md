@@ -1,0 +1,1 @@
+Record and store the temperatures given by the user. With that number, put it through an if statement whereas we will check if it's within 68 to 76 (inclusive). If it isn't then turn on the LED. If it is, then the LED won't turn on.
