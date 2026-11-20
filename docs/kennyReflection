@@ -1,0 +1,9 @@
+    1. My primary contribution to the project has been debugging and writing a fair portion of the code. 
+
+    2. Our most technical problem our team encountered was storing user input and printing it into the console and the file. Both of which took a majority of our time when we were working on the project. It took us a while because we could not get it to a readable state, and the code kept getting more errors the more we added to the program. 
+
+    3. Our team used testing and debugging to solve a problem by examining our problems and mistakes and then fixing them through trial and error. 
+
+    4. The most useful skills from CSE 1106 have been the ability to work with a raspberry PI and wires as these skills not only apply to real world applications in careers but could also be handy in personal use for those who want to work on personal projects. 
+
+    5. If I had more time, I would have included checks in the program in case the user inputted variables that could not be stored as integers. I would have also implemented a check to see if the program would read the file as null or not. 
